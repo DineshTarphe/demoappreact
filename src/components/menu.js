@@ -5,10 +5,10 @@ function Menu(){
         <>
             <nav>
                 <ul>
-                <Link path="">About</Link>
-                <Link path="">Gallery</Link>
-                <Link path="">Projects</Link>
-                <Link path="">Contact</Link>
+                <Link to="/about">About</Link>
+                <Link to="/gallery">Gallery</Link>
+                <Link to="/projects">Projects</Link>
+                <Link to="/contact">Contact</Link>
                 </ul>    
             </nav>
         </>
